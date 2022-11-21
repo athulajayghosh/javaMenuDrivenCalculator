@@ -31,8 +31,8 @@ public class Main {
                     obj3.Show();
                     break;
                 case 4:
-                    System.out.println("div(a,b)");
-                    break;
+                    div obj4 = new div();
+                    obj4.Show();
                 case 5:
                     System.out.println("exit");
                     break;
