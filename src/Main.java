@@ -12,7 +12,7 @@ public class Main {
             System.out.println("2.Subtract");
             System.out.println("3.Multiply");
             System.out.println("4.Divide");
-            System.out.println("Exit");
+            System.out.println("5.Exit");
 
             System.out.println("Enter your Option:");
             op = sn.nextInt();
