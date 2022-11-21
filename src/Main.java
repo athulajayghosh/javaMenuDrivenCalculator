@@ -19,8 +19,8 @@ public class Main {
 
             switch (op) {
                 case 1:
-                    add fun = new add();
-                    fun.Show();
+                    add obj = new add();
+                    obj.Show();
                     break;
                 case 2:
                     System.out.println("sub(a,b)");
