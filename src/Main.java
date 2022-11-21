@@ -19,11 +19,12 @@ public class Main {
 
             switch (op) {
                 case 1:
-                    add obj = new add();
-                    obj.Show();
+                    add obj1 = new add();
+                    obj1.Show();
                     break;
                 case 2:
-                    System.out.println("sub(a,b)");
+                    sub obj2 = new sub();
+                    obj2.Show();
                     break;
                 case 3:
                     System.out.println("mul(a,b)");
