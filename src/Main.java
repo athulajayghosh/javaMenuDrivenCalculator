@@ -27,7 +27,8 @@ public class Main {
                     obj2.Show();
                     break;
                 case 3:
-                    System.out.println("mul(a,b)");
+                    mul obj3 = new mul();
+                    obj3.Show();
                     break;
                 case 4:
                     System.out.println("div(a,b)");
